@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411260645180",
+    "firebase_url": "https://authflutter-f4fb0.firebaseio.com",
+    "project_id": "authflutter-f4fb0",
+    "storage_bucket": "authflutter-f4fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411260645180:android:389c1300e58a8363",
+        "android_client_info": {
+          "package_name": "com.acampdev.authflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411260645180-mcuduom91pk97i7h9eagsgec2ujf14n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acampdev.authflutter",
+            "certificate_hash": "20b5e441d33dc1c7261249ed712ce93582e2df52"
+          }
+        },
+        {
+          "client_id": "411260645180-kicr97lnf9od3t8ni0ig3pn55g0v8t4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGFgJXxtsCp10UQHL3Tkv4IN0QrUJKSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411260645180-kicr97lnf9od3t8ni0ig3pn55g0v8t4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

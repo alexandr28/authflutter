@@ -1,0 +1,5 @@
+<resources>
+    <string name="facebook_app_id">keyFacebook</string>
+    <string name="fb_login_protocol_scheme">secretKey</string>
+    <string name="app_name">AuthFlutter</string>
+</resources>
